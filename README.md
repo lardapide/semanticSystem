@@ -1,3 +1,7 @@
+# Intro
+
+!Em desenvolvimento. Contribuições são bem vindas.
+
 # Cálculo Lambda de Tipo Simples
 
 <img width="307" height="120" alt="image" src="https://github.com/user-attachments/assets/b7f61a74-3970-4bcd-8d32-7ba81aee3f31" />
